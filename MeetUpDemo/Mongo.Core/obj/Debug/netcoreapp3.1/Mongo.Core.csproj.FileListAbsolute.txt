@@ -1,0 +1,9 @@
+C:\Users\Furkan\Desktop\MeetUpDemo\Mongo.Core\bin\Debug\netcoreapp3.1\Mongo.Core.deps.json
+C:\Users\Furkan\Desktop\MeetUpDemo\Mongo.Core\bin\Debug\netcoreapp3.1\Mongo.Core.dll
+C:\Users\Furkan\Desktop\MeetUpDemo\Mongo.Core\bin\Debug\netcoreapp3.1\Mongo.Core.pdb
+C:\Users\Furkan\Desktop\MeetUpDemo\Mongo.Core\obj\Debug\netcoreapp3.1\Mongo.Core.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\MeetUpDemo\Mongo.Core\obj\Debug\netcoreapp3.1\Mongo.Core.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\MeetUpDemo\Mongo.Core\obj\Debug\netcoreapp3.1\Mongo.Core.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\MeetUpDemo\Mongo.Core\obj\Debug\netcoreapp3.1\Mongo.Core.dll
+C:\Users\Furkan\Desktop\MeetUpDemo\Mongo.Core\obj\Debug\netcoreapp3.1\Mongo.Core.pdb
+C:\Users\Furkan\Desktop\MeetUpDemo\Mongo.Core\obj\Debug\netcoreapp3.1\Mongo.Core.csproj.CoreCompileInputs.cache
